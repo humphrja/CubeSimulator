@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CubeSimulator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CubeSimulator_jar</output-path>
+    <root id="archive" name="CubeSimulator.jar">
+      <element id="module-output" name="CubeSimulator" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Applications/Processing/processing-3.5.4/core/library/core.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
