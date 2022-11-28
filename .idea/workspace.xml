@@ -10,24 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2d4b22d-96dc-42d8-9044-1ed9108a995d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CubeSimulator_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/core.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Main_Run_Configuration.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CubeSimulator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Simulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/Puzzle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/Settings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/cubes/Cube.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/cubes/CubeRenderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/minxes/Minx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/minxes/MinxRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Main_Run_Configuration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Main_Configuration.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Simulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Simulator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +45,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Applications/Processing/processing-3.5.4/core/library/core.jar",
-    "project.structure.last.edited": "Artifacts",
+    "last_opened_file_path": "D:/Programs/Applications/pgui/pgui.jar",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }

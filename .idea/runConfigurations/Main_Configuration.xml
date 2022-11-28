@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Main Run Configuration" type="Application" factoryName="Application">
+  <configuration default="false" name="Main Configuration" type="Application" factoryName="Application">
     <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jre1.8.0_341" />
     <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
     <option name="MAIN_CLASS_NAME" value="Simulator" />
